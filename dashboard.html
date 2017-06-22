@@ -32,7 +32,7 @@
 
     <!--    Google Charts   -->
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <link
+
 
 </head>
 <body>
@@ -132,11 +132,11 @@
                                     <b class="caret"></b>
                               </a>
                               <ul class="dropdown-menu">
-                                <li><a href="#">Support Services</a></li>
-                                <li><a href="#">Account Manager</a></li>
-                                <li><a href="#">Reporting Services</a></li>
+                                <li><a href="#myModal" data-toggle="modal">Support Services</a></li>
+                                <li><a href="#myModal" data-toggle="modal">Account Manager</a></li>
+                                <li><a href="#myModal" data-toggle="modal">Reporting Services</a></li>
                                 <li class="divider"></li>
-                                <li><a href="#">Contact Information</a></li>
+                                <li><a href="http://grapevinegroup.co.za/contact-us/">Contact Information</a></li>
                               </ul>
                         </li>
                         <li>
@@ -150,6 +150,7 @@
         </nav>
 
 
+
         <div class="content">
             <div class="container-fluid">
                 <div class="row">
@@ -157,7 +158,7 @@
                         <div class="card">
                             <div class="header">
                                 <h4 class="title">Email Statistics</h4>
-                                <p class="category">Welcome Automation Performance</p>
+                                <p class="category">Transact Mailing Performance</p>
                             </div>
                             <div class="content">
                                 <div id="piechart" style="width: 100%; height: 100%;"></div>
@@ -215,8 +216,8 @@
 
                                 <div class="footer">
                                     <div class="legend">
-                                        <i class="fa fa-circle text-info"></i> Premium
-                                        <i class="fa fa-circle text-danger"></i> Compact
+                                        <i class="fa fa-circle text-info"></i> Sent
+                                        <i class="fa fa-circle text-danger"></i> Delivered
                                     </div>
                                     <hr>
                                     <div class="stats">
@@ -308,6 +309,43 @@
 </div>
 
 
+<!--modal begins here-->
+<div class="modal fade slide left" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+
+                </button>
+                <h3 class="modal-title" id="myModalLabel">We would love to hear from you</h3>
+
+            </div>
+            <div class="modal-body">
+                <!--<p class="lead">Please get in touch!</p>-->
+                <form method="post" id="myForm">
+                    <div class="form-group">
+                        <label for="name">Your name:</label>
+                        <input type="text" name="name" id="name" class="form-control" placeholder="Name" value="" required/>
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Your email:</label>
+                        <input type="email" name="email" id="email" class="form-control" placeholder="Email" value="" required/>
+                    </div>
+                    <div class="form-group">
+                        <label for="comment">Your comment:</label>
+                        <textarea class="form-control" id="comment" name="comment" required></textarea>
+                    </div>
+                    <input type="submit" name="submit" class="btn btn-success btn-md" value="Forward">
+                </form>
+            </div>
+            <div class="modal-footer">
+                <!--<button type="button" class="btn btn-danger" data-dismiss="modal">Cancel Form</button>-->
+            </div>
+        </div>
+    </div>
+</div>
+<!--end modal-->
+
 </body>
 
     <!--   Core JS Files   -->
@@ -339,7 +377,7 @@
 
         	$.notify({
             	icon: 'pe-7s-gift',
-            	message: "Welcome to <b>DStv Automation Dashboard</b> - <b>dynamic welcome automation visualization.</b>"
+            	message: "Welcome to <b>DStv Transact Dashboard</b> - <b>dynamic transactional visualization.</b>"
 
             },{
                 type: 'info',
