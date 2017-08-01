@@ -2,12 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55862903-391f-4da1-8416-dcd26380d652" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal.html" afterPath="$PROJECT_DIR$/modal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/table.html" afterPath="$PROJECT_DIR$/table.html" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\icons.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\maps.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\modal.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\notifications.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\table.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\template.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\typography.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\upgrade.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\transact-dashboard\user.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/charts.js" afterPath="$PROJECT_DIR$/assets/js/charts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/assets/js/jquery-1.10.2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="transact-dashboard.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,43 +30,191 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DaemonCodeAnalyzer">
-    <disable_hints />
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="transact-dashboard" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dashboard.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dashboard.html">
+      <file leaf-file-name="dashboard.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.7037038" vertical-offset="5195" max-vertical-offset="6783">
-              <caret line="311" column="0" selection-start-line="311" selection-start-column="0" selection-end-line="346" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="table.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4678899" vertical-offset="0" max-vertical-offset="6545">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modal.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modal.html">
+      <file leaf-file-name="table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="697">
-              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state vertical-scroll-proportion="-9.622642">
+              <caret line="210" column="44" selection-start-line="210" selection-start-column="37" selection-end-line="210" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#1;n#p#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/php/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23776224">
+              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <marker date="1501586164928" expanded="true" signature="516:705" placeholder="SELECT COUNT..." />
+                <marker date="1501586164928" expanded="true" signature="958:1156" placeholder="SELECT COUNT..." />
+                <marker date="1501586164928" expanded="true" signature="1429:2285" placeholder="..." />
+                <marker date="1501586164928" expanded="true" signature="1441:2268" placeholder="..." />
+                <marker date="1501586164928" expanded="true" signature="2924:3626" placeholder="..." />
+                <marker date="1501586164928" expanded="true" signature="2967:2984" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="metric.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/php/metric.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.384615">
+              <caret line="43" column="178" selection-start-line="43" selection-start-column="171" selection-end-line="43" selection-end-column="178" />
+              <folding>
+                <marker date="1501500355418" expanded="true" signature="46:128" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="143:231" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="251:336" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="382:469" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="484:580" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="597:718" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="735:861" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="879:1014" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="1031:1152" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="1170:1296" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="1315:1450" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="1467:1588" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="1606:1732" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="1751:1886" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="1903:2024" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="2042:2168" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="2187:2322" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="2338:2459" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="2476:2602" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="2620:2755" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="2771:2892" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="2909:3035" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="3053:3188" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="3204:3325" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="3342:3468" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="3486:3621" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="3637:3758" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="3775:3901" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="3919:4054" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="4110:4270" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="4295:4454" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="4481:4642" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="4671:4829" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="4854:5013" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="5043:5203" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="5228:5387" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="5414:5575" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="5604:5762" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="5787:5946" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="5978:6138" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="6165:6324" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="6353:6514" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="6545:6703" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="6730:6889" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="6921:7081" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="7108:7267" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="7296:7457" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="7488:7646" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="7673:7832" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="7862:8022" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="8047:8206" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="8233:8394" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="8423:8581" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="8606:8765" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="8796:8956" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="8982:9141" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="9169:9330" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="9360:9518" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="9544:9703" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="9734:9894" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="9920:10079" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="10107:10268" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="10298:10456" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="10482:10641" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="10674:10834" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="10862:11021" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="11051:11212" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="11244:11402" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="11430:11589" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="11625:11785" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="11816:11975" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="12008:12169" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="12204:12362" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="12393:12552" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="12586:12746" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="12775:12935" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="12966:13128" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="13161:13320" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="13349:13509" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="13544:13704" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="13734:13894" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="13926:14088" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="14122:14281" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="14311:14471" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="14506:14666" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="14696:14856" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="14888:15048" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="15082:15241" placeholder="SELECT COUNT..." />
+                <marker date="1501500355418" expanded="true" signature="15271:15431" placeholder="SELECT COUNT..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/php/chart.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="7.8461537">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chartdata.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/php/chartdata.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.6153846">
+              <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="widgets.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/php/widgets.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+              <folding>
+                <marker date="1501588228434" expanded="true" signature="426:548" placeholder="SELECT COUNT..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/php/connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.153846">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -72,19 +231,35 @@
         <option value="$PROJECT_DIR$/maps.html" />
         <option value="$PROJECT_DIR$/dashboard.html" />
         <option value="$PROJECT_DIR$/assets/js/datepicker.js" />
-        <option value="$PROJECT_DIR$/table.html" />
         <option value="$PROJECT_DIR$/modal.html" />
+        <option value="$PROJECT_DIR$/table.html" />
+        <option value="$PROJECT_DIR$/t" />
+        <option value="$PROJECT_DIR$/assets/php/connection.php" />
+        <option value="$PROJECT_DIR$/assets/php/metric.php" />
+        <option value="$PROJECT_DIR$/assets/php/chartdata.php" />
+        <option value="$PROJECT_DIR$/assets/php/chart.php" />
+        <option value="$PROJECT_DIR$/assets/php/functions.php" />
+        <option value="$PROJECT_DIR$/table.php" />
+        <option value="$PROJECT_DIR$/assets/php/widgets.php" />
+        <option value="$PROJECT_DIR$/dashboard.php" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1378" />
-    <option name="height" value="744" />
+    <option name="x" value="-7" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -109,6 +284,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -141,9 +318,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transact-dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transact-dashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,43 +345,40 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <method />
-    </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
-    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
       <method />
     </configuration>
-    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" value="" />
-      <option name="executablePath" />
-      <option name="filePath" />
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
-    <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="55862903-391f-4da1-8416-dcd26380d652" name="Default" comment="" />
@@ -198,27 +389,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
+    <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24889217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -232,47 +424,381 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
-    </option>
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maps.html">
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3046595" vertical-offset="2703" max-vertical-offset="3655">
-          <caret line="169" column="18" selection-start-line="169" selection-start-column="18" selection-end-line="169" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.7037038" vertical-offset="5195" max-vertical-offset="6783">
-          <caret line="311" column="0" selection-start-line="311" selection-start-column="0" selection-end-line="346" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.884615" vertical-offset="0" max-vertical-offset="697">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4678899" vertical-offset="0" max-vertical-offset="6545">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/chart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/chartdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1501586164928" expanded="true" signature="516:705" placeholder="SELECT COUNT..." />
+            <marker date="1501586164928" expanded="true" signature="958:1156" placeholder="SELECT COUNT..." />
+            <marker date="1501586164928" expanded="true" signature="1429:2285" placeholder="..." />
+            <marker date="1501586164928" expanded="true" signature="1441:2268" placeholder="..." />
+            <marker date="1501586164928" expanded="true" signature="2924:3626" placeholder="..." />
+            <marker date="1501586164928" expanded="true" signature="2967:2984" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <marker date="1501588228434" expanded="true" signature="426:548" placeholder="SELECT COUNT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/metric.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="66" column="20" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+          <folding>
+            <marker date="1501500355418" expanded="true" signature="46:128" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="143:231" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="251:336" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="382:469" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="484:580" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="597:718" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="735:861" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="879:1014" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1031:1152" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1170:1296" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1315:1450" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1467:1588" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1606:1732" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1751:1886" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1903:2024" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2042:2168" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2187:2322" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2338:2459" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2476:2602" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2620:2755" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2771:2892" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2909:3035" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3053:3188" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3204:3325" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3342:3468" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3486:3621" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3637:3758" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3775:3901" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3919:4054" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4110:4270" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4295:4454" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4481:4642" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4671:4829" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4854:5013" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5043:5203" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5228:5387" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5414:5575" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5604:5762" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5787:5946" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5978:6138" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6165:6324" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6353:6514" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6545:6703" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6730:6889" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6921:7081" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7108:7267" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7296:7457" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7488:7646" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7673:7832" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7862:8022" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8047:8206" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8233:8394" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8423:8581" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8606:8765" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8796:8956" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8982:9141" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9169:9330" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9360:9518" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9544:9703" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9734:9894" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9920:10079" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10107:10268" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10298:10456" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10482:10641" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10674:10834" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10862:11021" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11051:11212" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11244:11402" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11430:11589" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11625:11785" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11816:11975" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12008:12169" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12204:12362" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12393:12552" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12586:12746" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12775:12935" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12966:13128" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13161:13320" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13349:13509" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13544:13704" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13734:13894" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13926:14088" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14122:14281" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14311:14471" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14506:14666" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14696:14856" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14888:15048" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="15082:15241" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="15271:15431" placeholder="SELECT COUNT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../backup2/backup2/scripts/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../backup2/backup2/scripts/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="33" column="34" selection-start-line="15" selection-start-column="13" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wp-dashboard/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wp-dashboard/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19755244">
+          <caret line="172" column="101" selection-start-line="172" selection-start-column="101" selection-end-line="172" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../wp-dashboard/assets/php/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37587413">
+          <caret line="143" column="1" selection-start-line="85" selection-start-column="0" selection-end-line="143" selection-end-column="1" />
+          <folding>
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1499774023219" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1499774023219" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1499774023219" expanded="false" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/widgets.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="16" column="69" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
+          <folding>
+            <marker date="1501588228434" expanded="true" signature="426:548" placeholder="SELECT COUNT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/metric.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.384615">
+          <caret line="43" column="178" selection-start-line="43" selection-start-column="171" selection-end-line="43" selection-end-column="178" />
+          <folding>
+            <marker date="1501500355418" expanded="true" signature="46:128" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="143:231" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="251:336" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="382:469" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="484:580" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="597:718" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="735:861" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="879:1014" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1031:1152" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1170:1296" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1315:1450" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1467:1588" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1606:1732" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1751:1886" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="1903:2024" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2042:2168" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2187:2322" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2338:2459" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2476:2602" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2620:2755" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2771:2892" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="2909:3035" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3053:3188" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3204:3325" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3342:3468" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3486:3621" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3637:3758" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3775:3901" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="3919:4054" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4110:4270" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4295:4454" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4481:4642" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4671:4829" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="4854:5013" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5043:5203" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5228:5387" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5414:5575" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5604:5762" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5787:5946" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="5978:6138" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6165:6324" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6353:6514" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6545:6703" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6730:6889" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="6921:7081" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7108:7267" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7296:7457" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7488:7646" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7673:7832" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="7862:8022" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8047:8206" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8233:8394" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8423:8581" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8606:8765" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8796:8956" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="8982:9141" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9169:9330" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9360:9518" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9544:9703" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9734:9894" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="9920:10079" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10107:10268" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10298:10456" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10482:10641" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10674:10834" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="10862:11021" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11051:11212" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11244:11402" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11430:11589" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11625:11785" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="11816:11975" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12008:12169" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12204:12362" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12393:12552" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12586:12746" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12775:12935" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="12966:13128" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13161:13320" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13349:13509" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13544:13704" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13734:13894" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="13926:14088" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14122:14281" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14311:14471" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14506:14666" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14696:14856" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="14888:15048" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="15082:15241" placeholder="SELECT COUNT..." />
+            <marker date="1501500355418" expanded="true" signature="15271:15431" placeholder="SELECT COUNT..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/chart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="7.8461537">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/chartdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6153846">
+          <caret line="4" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.622642">
+          <caret line="210" column="44" selection-start-line="210" selection-start-column="37" selection-end-line="210" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#1;n#p#1;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/php/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23776224">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <marker date="1501586164928" expanded="true" signature="516:705" placeholder="SELECT COUNT..." />
+            <marker date="1501586164928" expanded="true" signature="958:1156" placeholder="SELECT COUNT..." />
+            <marker date="1501586164928" expanded="true" signature="1429:2285" placeholder="..." />
+            <marker date="1501586164928" expanded="true" signature="1441:2268" placeholder="..." />
+            <marker date="1501586164928" expanded="true" signature="2924:3626" placeholder="..." />
+            <marker date="1501586164928" expanded="true" signature="2967:2984" placeholder="..." />
           </folding>
         </state>
       </provider>

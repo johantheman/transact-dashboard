@@ -32,7 +32,7 @@
 
     <!--    Google Charts   -->
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
+    <link
 
 </head>
 <body>
@@ -49,21 +49,21 @@
 
     	<div class="sidebar-wrapper">
             <div class="logo">
-                <a href="dashboard.html" class="simple-text">
+                <a href="dashboard.php" class="simple-text">
                     DStv Dashboard
                 </a>
             </div>
 
             <ul class="nav">
                 <li class="active">
-                    <a href="dashboard.html">
+                    <a href="dashboard.php">
                         <i class="pe-7s-graph"></i>
                         <p>Dashboard</p>
                     </a>
                 </li>
 
                 <li>
-                    <a href="table.html">
+                    <a href="table.php">
                         <i class="pe-7s-note2"></i>
                         <p>Table List</p>
                     </a>
@@ -71,7 +71,7 @@
 
 
                 <li>
-                    <a href="notifications.html">
+                    <a href="notifications.php">
                         <i class="pe-7s-bell"></i>
                         <p>Notifications</p>
                     </a>
@@ -91,7 +91,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Dashboard</a>
+                    <a class="navbar-brand" href="dashboard.php">Dashboard</a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-left">
@@ -112,9 +112,9 @@
                                     <span class="notification">3</span>
                               </a>
                               <ul class="dropdown-menu">
-                                <li><a href="notifications.html">Notification 1</a></li>
-                                <li><a href="notifications.html">Notification 2</a></li>
-                                <li><a href="notifications.html">Notification 3</a></li>
+                                <li><a href="notifications.php">Notification 1</a></li>
+                                <li><a href="notifications.php">Notification 2</a></li>
+                                <li><a href="notifications.php">Notification 3</a></li>
                               </ul>
                         </li>
 
@@ -136,7 +136,7 @@
                                 <li><a href="#myModal" data-toggle="modal">Account Manager</a></li>
                                 <li><a href="#myModal" data-toggle="modal">Reporting Services</a></li>
                                 <li class="divider"></li>
-                                <li><a href="http://grapevinegroup.co.za/contact-us/">Contact Information</a></li>
+                                <li><a href="#myModal" data-toggle="modal">Contact Information</a></li>
                               </ul>
                         </li>
                         <li>
@@ -150,7 +150,6 @@
         </nav>
 
 
-
         <div class="content">
             <div class="container-fluid">
                 <div class="row">
@@ -158,7 +157,7 @@
                         <div class="card">
                             <div class="header">
                                 <h4 class="title">Email Statistics</h4>
-                                <p class="category">Transact Mailing Performance</p>
+                                <p class="category">Transact Triger Performance</p>
                             </div>
                             <div class="content">
                                 <div id="piechart" style="width: 100%; height: 100%;"></div>
@@ -171,7 +170,7 @@
                                     </div>
                                     <hr>
                                     <div class="stats">
-                                        <i class="fa fa-clock-o"></i> Campaign sent 2 days ago
+                                        <i class="fa fa-clock-o"></i> Campaign sent <?php include 'assets\php\widgets.php'; echo $dls; ?> ago
                                     </div>
                                 </div>
                             </div>
@@ -194,7 +193,7 @@
                                     </div>
                                     <hr>
                                     <div class="stats">
-                                        <i class="fa fa-history"></i> Updated 3 minutes ago
+                                        <i class="fa fa-history"></i> Updated <?php echo $ct; ?>
                                     </div>
                                 </div>
                             </div>
@@ -216,8 +215,8 @@
 
                                 <div class="footer">
                                     <div class="legend">
-                                        <i class="fa fa-circle text-info"></i> Sent
-                                        <i class="fa fa-circle text-danger"></i> Delivered
+                                        <i class="fa fa-circle text-info"></i> Forgot Password
+                                        <i class="fa fa-circle text-danger"></i> Profile Changes
                                     </div>
                                     <hr>
                                     <div class="stats">
@@ -238,24 +237,24 @@
                                 <div class="table-full-width">
                                     <table class="table">
                                         <tbody>
-                                            <tr>
-                                                <td>
-                                                    <label class="checkbox">
-                                                        <input type="checkbox" value="" data-toggle="checkbox">
-                                                    </label>
-                                                </td>
-                                                <td>Check the email stats for tuesday</td>
-                                                <td class="td-actions text-right">
-                                                    <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
-                                                        <i class="fa fa-edit"></i>
-                                                    </button>
-                                                    <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
-                                                        <i class="fa fa-times"></i>
-                                                    </button>
-                                                </td>
-                                            </tr>
+                                        <tr>
+                                            <td>
+                                                <label class="checkbox">
+                                                    <input type="checkbox" value="" data-toggle="checkbox">
+                                                </label>
+                                            </td>
+                                            <td>Check the email stats for tuesday</td>
+                                            <td class="td-actions text-right">
+                                                <button type="button" rel="tooltip" title="Edit Task" class="btn btn-info btn-simple btn-xs">
+                                                    <i class="fa fa-edit"></i>
+                                                </button>
+                                                <button type="button" rel="tooltip" title="Remove" class="btn btn-danger btn-simple btn-xs">
+                                                    <i class="fa fa-times"></i>
+                                                </button>
+                                            </td>
+                                        </tr>
 
-                                        </tbody>
+                                    </tbody>
                                     </table>
                                 </div>
 
@@ -307,7 +306,6 @@
 
     </div>
 </div>
-
 
 <!--modal begins here-->
 <div class="modal fade slide left" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -377,7 +375,7 @@
 
         	$.notify({
             	icon: 'pe-7s-gift',
-            	message: "Welcome to <b>DStv Transact Dashboard</b> - <b>dynamic transactional visualization.</b>"
+            	message: "Welcome to <b>DStv Transact Dashboard</b> - <b>dynamic trigger report visualization.</b>"
 
             },{
                 type: 'info',
@@ -387,7 +385,7 @@
     	});
 	</script>
 
-    <!--    Google Charts   -->
-    <script src="assets/js/charts.js"></script>
+
 
 </html>
+<?php include 'assets/php/chart.php'; ?>
