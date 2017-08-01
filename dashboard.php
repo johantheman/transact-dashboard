@@ -214,10 +214,7 @@
                                 <div id="columnchart_material" style="width: 100%; height: 100%;"></div>
 
                                 <div class="footer">
-                                    <div class="legend">
-                                        <i class="fa fa-circle text-info"></i> Forgot Password
-                                        <i class="fa fa-circle text-danger"></i> Profile Changes
-                                    </div>
+
                                     <hr>
                                     <div class="stats">
                                         <i class="fa fa-check"></i> Data information
@@ -274,32 +271,9 @@
 
         <footer class="footer">
             <div class="container-fluid">
-                <nav class="pull-left">
-                    <ul>
-                        <li>
-                            <a href="#">
-                                Home
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Company
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Portfolio
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                               Blog
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
+
                 <p class="copyright pull-right">
-                    &copy; 2017 <a href="http://www.grapevinegroup.co.za">Johan Erasmus</a>, web development
+                    &copy; 2017 <a href="#">DStv Acquisition</a>
                 </p>
             </div>
         </footer>

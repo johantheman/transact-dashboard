@@ -224,32 +224,9 @@ include 'assets\php\functions.php';
 
             <footer class="footer">
             <div class="container-fluid">
-                <nav class="pull-left">
-                    <ul>
-                        <li>
-                            <a href="#">
-                                Home
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Company
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Portfolio
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                Blog
-                            </a>
-                        </li>
-                    </ul>
-                </nav>
+               
                 <p class="copyright pull-right">
-                    &copy; 2016 <a href="http://www.grapevinegroup.co.za">Johan Erasmus</a>, web development
+                    &copy; 2016 <a href="#">DStv Acquisition</a>
                 </p>
             </div>
         </footer>
